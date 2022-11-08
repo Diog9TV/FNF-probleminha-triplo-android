@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gabs.Exe.png">
+<SubTexture name="Down.Exe0000" x="2360" y="1169" width="316" height="574" frameX="-136" frameY="-152" frameWidth="625" frameHeight="768" />
+<SubTexture name="Down.Exe0001" x="2360" y="588" width="312" height="581" frameX="-141" frameY="-145" frameWidth="625" frameHeight="768" />
+<SubTexture name="Down.Exe0002" x="1971" y="591" width="312" height="588" frameX="-142" frameY="-138" frameWidth="625" frameHeight="768" />
+<SubTexture name="Idle.exe0000" x="834" y="1898" width="436" height="541" frameX="-154" frameY="-154" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0001" x="409" y="1898" width="425" height="556" frameX="-161" frameY="-139" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0002" x="0" y="1898" width="409" height="572" frameX="-167" frameY="-123" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0003" x="2360" y="0" width="393" height="588" frameX="-166" frameY="-107" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0004" x="1971" y="0" width="389" height="591" frameX="-164" frameY="-104" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0005" x="1399" y="1295" width="386" height="593" frameX="-163" frameY="-102" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0006" x="1587" y="607" width="380" height="596" frameX="-163" frameY="-99" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0007" x="1587" y="0" width="384" height="607" frameX="-162" frameY="-88" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0008" x="1200" y="0" width="387" height="618" frameX="-162" frameY="-77" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0009" x="1200" y="0" width="387" height="618" frameX="-162" frameY="-77" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0010" x="1200" y="0" width="387" height="618" frameX="-162" frameY="-77" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0011" x="1200" y="0" width="387" height="618" frameX="-162" frameY="-77" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0012" x="1200" y="0" width="387" height="618" frameX="-162" frameY="-77" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0013" x="1200" y="0" width="387" height="618" frameX="-162" frameY="-77" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0014" x="1200" y="0" width="387" height="618" frameX="-162" frameY="-77" frameWidth="714" frameHeight="738" />
+<SubTexture name="Idle.exe0015" x="1200" y="0" width="387" height="618" frameX="-162" frameY="-77" frameWidth="714" frameHeight="738" />
+<SubTexture name="Left.exe0000" x="0" y="681" width="456" height="614" frameX="-83" frameY="-104" frameWidth="647" frameHeight="761" />
+<SubTexture name="Left.exe0001" x="456" y="681" width="450" height="613" frameX="-90" frameY="-105" frameWidth="647" frameHeight="761" />
+<SubTexture name="Left.exe0002" x="906" y="681" width="442" height="612" frameX="-99" frameY="-106" frameWidth="647" frameHeight="761" />
+<SubTexture name="Right.exe0000" x="0" y="1295" width="467" height="603" frameX="-159" frameY="-98" frameWidth="763" frameHeight="744" />
+<SubTexture name="Right.exe0001" x="467" y="1295" width="466" height="601" frameX="-169" frameY="-100" frameWidth="763" frameHeight="744" />
+<SubTexture name="Right.exe0002" x="933" y="1295" width="466" height="600" frameX="-179" frameY="-101" frameWidth="763" frameHeight="744" />
+<SubTexture name="Up.exe0000" x="0" y="0" width="405" height="681" frameX="-156" frameY="-110" frameWidth="669" frameHeight="836" />
+<SubTexture name="Up.exe0001" x="405" y="0" width="400" height="669" frameX="-158" frameY="-122" frameWidth="669" frameHeight="836" />
+<SubTexture name="Up.exe0002" x="805" y="0" width="395" height="658" frameX="-159" frameY="-133" frameWidth="669" frameHeight="836" />
+</TextureAtlas>
