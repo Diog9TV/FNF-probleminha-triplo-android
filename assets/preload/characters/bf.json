@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				-35,
+				24
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				20,
+				-90
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-19,
+				7
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				-48,
+				-38,
 				-7
 			],
 			"loop": false,
@@ -57,7 +57,7 @@
 		},
 		{
 			"offsets": [
-				7,
+				-33,
 				19
 			],
 			"loop": false,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				25,
+				-49
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-26,
+				7
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				-30,
+				10
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				0,
+				29
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,7 +112,7 @@
 		},
 		{
 			"offsets": [
-				14,
+				15,
 				18
 			],
 			"loop": false,
@@ -124,13 +124,46 @@
 		{
 			"offsets": [
 				-4,
-				0
+				-10
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "scared",
 			"indices": [],
 			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				11,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				-13,
+				-15
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				-13,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
 		},
 		{
 			"offsets": [
@@ -169,18 +202,18 @@
 	"no_antialiasing": false,
 	"image": "characters/BOYFRIEND",
 	"position": [
-		0,
-		350
+		180,
+		270
 	],
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		255,
+		160,
+		255
 	],
 	"camera_position": [
-		0,
+		10,
 		0
 	],
 	"sing_duration": 4,
