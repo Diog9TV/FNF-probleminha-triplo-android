@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "foresttrouble",
+		"player1": "bf",
+		"player2": "Pitron",
+		"player3": null,
+		"events": [
+			[
+				1232.87671232877,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				1338.18493150685,
+				[
+					[
+						"Trigger BG Ghouls",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				1438.35616438356,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				1541.09589041096,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"1",
+						"GabsExe"
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Vsilva"
+					]
+				]
+			],
+			[
+				133253.424657534,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"1",
+						"GabsExe"
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"1",
+						"Core"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"1",
+						"GabsExe"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "probleminha-triplo"
+	}
+}
